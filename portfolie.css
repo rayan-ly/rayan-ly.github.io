@@ -1,0 +1,19 @@
+
+body{
+    background-color: black;
+}
+header{
+text-align: center;
+color: #0088ff;
+background-image:url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpyamJ5NDg0dGNndG5lZDN5eWU1N2oxdnBsaDNxbWlnZWdyMzEwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaLggE7K8JBXa/giphy.gif);
+background-repeat:no-repeat;
+border: 2px solid rgb(255, 98, 0);
+padding-top: 10px;
+width: 130em;
+margin-left: 10em;
+margin-top: 2em;
+}
+nav{
+color: beige;
+
+}
